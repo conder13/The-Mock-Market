@@ -1,0 +1,19 @@
+Welcome to The Mock Market! This game is a simulation of The U.S. Stock Market. Please note that this is just a simulation and is in no way related to the real stock market. All currency used in this simulation is completely fake and is not to be used for anything outside of this project. Without further adue, lets get into more about this game.
+
+
+
+
+
+
+List Of Commands:
+
+  Useable in Home:
+    - sign up - Brings you to sign up page
+    - sign in - Brings you to sign in page
+    - view - Allows you to view stock of choice
+    - buy - Buys stock of choice
+    - history - Brings you to history page
+    - save - Saves all information to account(may not be needed under specific circumstances)
+  
+  Useable while viewing a stock:
+    - buy - 
