@@ -1,11 +1,11 @@
-print("Checking for packages...")
+#print("Checking for packages...")
 import subprocess
 import os
 import subprocess
 import sys
 import pip    
 import time
-from pip._internal.utils.misc import get_installed_distributions
+'''from pip._internal.utils.misc import get_installed_distributions
 files = []
 for file in get_installed_distributions():
   files.append(file)
@@ -19,7 +19,7 @@ for i in files:
     os.system("pip install -U textblob")
     os.system("python -m textblob.download_corpora")
 os.system("clear")
-
+'''
 from yahoo_fin.stock_info import *
 from yahoo_fin import news
 from replit import db
